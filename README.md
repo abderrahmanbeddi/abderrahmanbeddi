@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Music.
 - 🌱 I’m currently learning front-end development (Html , Css , Javascript)
 - 💞️ I’m looking to collaborate on Great ideas
-- 📫 How to reach me beddiabderrahman@gmail.com or DM on X (twitter) @itsmebeddi
+- 📫 How to reach me beddiabderrahman@gmail.com or DM me on X (twitter) @itsmebeddi
 
 <!---
 abderrahmanbeddi/abderrahmanbeddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
